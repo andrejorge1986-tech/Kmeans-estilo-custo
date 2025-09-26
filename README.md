@@ -30,3 +30,9 @@ Imagens incluídas na pasta `/images`
 ## 👤 Autor
 André Jorge  
 [Notion do projeto](https://www.notion.so/Atividade-K-Means-Clustering-Final-Andr-Jorge-27ae172d362e80c9963be09a1123031c)
+
+### 🌐 Links externos
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/andrejorge86)
+- 📁 [Notion do Projeto](https://www.notion.so/Atividade-K-Means-Clustering-Final-Andr-Jorge-...)
+- 💻 [Repositório GitHub](https://github.com/andrigonsp1986-tech/Kmeans-estilo-custo)
